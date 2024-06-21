@@ -1,4 +1,5 @@
-## Olá, eu sou Jéssica Rodrigues, especializada no desenvolvimento de aplicativos e sites.
+### Olá, eu sou Jéssica Rodrigues, 
+### Atuo no desenvolvimento de aplicativos e sites.
 ### Possuo graduação em Análise e Desenvolvimento de Sistemas. 
 ### Procuro sempre aprimorar ainda mais os meus conhecimentos e desenvolver sempre um trabalho de qualidade, visando o crescimento e experiência profissional, assim como aprender novas práticas e contribuir para melhores resultados, mostrando sempre compromisso e responsabilidade.
  
