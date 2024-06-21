@@ -1,6 +1,7 @@
 ### Olá, eu sou Jéssica Rodrigues, 
 
-Trabalho com desenvolvimento de aplicativos e sites e sou formada em Análise e Desenvolvimento de Sistemas. Estou sempre em busca de aprimorar meus conhecimentos e entregar trabalhos de alta qualidade. Valorizo o crescimento profissional e a experiência contínua, sempre aprendendo novas práticas e contribuindo para melhores resultados com compromisso e responsabilidade.
+Trabalho com desenvolvimento de aplicativos e sites e sou formada em Análise e Desenvolvimento de Sistemas.
+Estou sempre em busca de aprimorar meus conhecimentos e entregar trabalhos de alta qualidade. Valorizo o crescimento profissional e a experiência contínua, sempre aprendendo novas práticas e contribuindo para melhores resultados com compromisso e responsabilidade.
  
 
 <div align="justify">
