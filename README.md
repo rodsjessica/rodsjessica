@@ -1,8 +1,8 @@
 ### Olá, eu sou Jéssica Rodrigues, 
 
-Trabalho com desenvolvimento de aplicativos e sites e sou formada em Análise e Desenvolvimento de Sistemas.
-Estou sempre em busca de aprimorar meus conhecimentos e entregar trabalhos de alta qualidade. Valorizo o crescimento profissional e a experiência contínua, sempre aprendendo novas práticas e contribuindo para melhores resultados com compromisso e responsabilidade.
- 
+Atuo no desenvolvimento de aplicativos móveis e websites, utilizando React Native e React.
+Possuo graduação em Análise e Desenvolvimento de Sistemas.
+Estou constantemente em busca de aprimorar minhas habilidades e entregar soluções de alta qualidade. Comprometida com o crescimento profissional, busco constantemente inovar por meio de novas práticas e tecnologias, visando contribuir para resultados de alta performance, com responsabilidade, dedicação e foco na qualidade.
 
 <div align="justify">
   <a href="https://github.com/rodsjessica">
