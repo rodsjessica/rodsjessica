@@ -1,4 +1,4 @@
-### Olá, eu sou Jéssica Rodrigues, 
+### Olá, eu sou a Jéssica Rodrigues, 
 
 Atuo no desenvolvimento de aplicativos móveis e websites, utilizando React Native e React.
 Possuo graduação em Análise e Desenvolvimento de Sistemas.
